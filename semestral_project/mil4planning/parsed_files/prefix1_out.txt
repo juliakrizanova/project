@@ -1,0 +1,3 @@
+[p, a, b, c, d, a, b, c, d, a, b, c, d]
+[p, p, a, b, c, d, a, b, c, d, a, b, c, d]
+[p, p, p, a, b, c, d, a, b, c, d, a, b, c, d]

@@ -1,0 +1,3 @@
+s([a, p, b, c, d, a, b, c, d, a, b, c, d], []).
+s([a, p, p, b, c, d, a, b, c, d, a, b, c, d], []).
+s([a, p, p, p, b, c, d, a, p, p, b, c, d, a, p, p, b, c, d], []).
